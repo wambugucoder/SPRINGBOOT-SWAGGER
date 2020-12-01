@@ -7,5 +7,5 @@ Swagger 2 is an open source project used to describe and document RESTful APIs. 
 
 
 
-![Example](https://github.com/wambugucoder/SPRINGBOOT-SWAGGER/Demo.JPG)
+![Example](https://github.com/wambugucoder/SPRINGBOOT-SWAGGER/blob/main/Demo.JPG)
 
