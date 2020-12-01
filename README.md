@@ -1,5 +1,4 @@
 # SPRINGBOOT-SWAGGER
-
 Documenting your SpringBoot+Kotlin Application with Swagger.
 
 
